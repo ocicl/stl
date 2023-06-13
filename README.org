@@ -1,0 +1,10 @@
+* stl
+
+Read binary triangle data from STL files.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/jl2/stl.git   |
+| commit  | 4d315ea  |
+| systems | stl |
+|---------+-------------------------------------------|
+
